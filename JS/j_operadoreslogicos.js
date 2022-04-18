@@ -21,3 +21,5 @@ let candidatoRecusado = !podeAplicar;
 
 console.log('Candidato recusado', candidatoRecusado);
 console.log(podeAplicar);
+
+
